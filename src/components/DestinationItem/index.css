@@ -1,0 +1,14 @@
+.destination_item {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  margin: 20px;
+}
+.destination_image {
+  height: 200px;
+  width: 200px;
+}
+.name {
+  color: black;
+}
